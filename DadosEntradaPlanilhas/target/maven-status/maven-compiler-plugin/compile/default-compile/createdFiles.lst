@@ -1,0 +1,6 @@
+Principal.class
+model\ClientePDF.class
+model\ClientePlanilha.class
+CriarExcel\CriaExcel.class
+.netbeans_automatic_build
+lendoxlsx\LerTabelaPlanilha.class
